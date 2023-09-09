@@ -740,7 +740,15 @@ a:focus {
   padding: 20px 15%;
   
 }
+.address {
 
+  color: #f9fcfb;
+  margin: 0;
+  text-align: center;
+  padding: 20px 15%;
+  
+
+}
 
 .footer_section a {
   color: #f9fcfb;
